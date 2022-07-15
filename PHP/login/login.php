@@ -65,3 +65,7 @@ $msgerr = $_SESSION['msgerr'] ?? "";
         color: white;
     }
 </style>
+<script>
+    alert("LOGIN ADM \nusuário: admin@chalesma.com \nsenha: admin123");
+    alert("LOGIN FUNCIONÁRIO \nusuário: funcionario@chalesma.com \nsenha: funcionario123");
+</script>
